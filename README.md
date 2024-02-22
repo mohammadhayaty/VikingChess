@@ -8,14 +8,8 @@
 
 ## مراحل راه اندازی 
 ( برای مشاهده تصاویر بازی قبل از راه اندازی به فولدر Picture در بالا مراجعه کنید )
-###
 
- * **ابتدا باید OpenGl روی سیستم نصب باشد 
- پروژه در IDE مورد نظر باز کرده و آن را اجرا کنید (مـثلا Micrisoft Visuall Studio)
-### کدهای زیر را در ترمینال وارد کنید :
-* **composer install**
-* **npm install --force**
-* **php artisan storage:link**
-* **npm run dev**
-* **php artisan serve**
+
+ * **ابتدا باید OpenGl روی سیستم نصب باشد**
+ * **پروژه در IDE مورد نظر باز کرده و آن را اجرا کنید (مـثلا Micrisoft Visuall Studio)**
 
